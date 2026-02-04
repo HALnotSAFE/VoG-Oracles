@@ -1,0 +1,5 @@
+Welcome to my VoG Oracles training tool! 
+
+To run the tool, run Launcher.bat from this folder.
+If you run into any issues, please submit an issue on my GitHub: https://github.com/HALnotSAFE/VoG-Oracles/issues
+Or contact me on Discord at HALxT_
